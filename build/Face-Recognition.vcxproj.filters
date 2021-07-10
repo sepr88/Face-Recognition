@@ -4,11 +4,22 @@
     <ClCompile Include="C:\Users\sebas\projects\Face-Recognition\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\sebas\projects\Face-Recognition\src\myvector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\sebas\projects\Face-Recognition\include\myvector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\Users\sebas\projects\Face-Recognition\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9B86ADB9-6FD9-3550-BDD5-EED2DF0CDF31}</UniqueIdentifier>
+    </Filter>
     <Filter Include="Source Files">
       <UniqueIdentifier>{D6F99588-EFBC-3A25-8CBE-F854051F6B0F}</UniqueIdentifier>
     </Filter>
